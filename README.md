@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RubenMarket
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning embedded ow level systems programming.
+- 🌱 I’m currently learning embedded low level systems programming.
 - 💞️ I’m looking to collaborate on software projects.
 - 📫 How to reach me ruben@asirius.co
 
