@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning embedded low level systems programming.
 - 💞️ I’m looking to collaborate on software projects.
-- 📫 How to reach me ruben@asirius.co
+- 📫 Reach me on discord
 
 <!---
 RubenMarket/RubenMarket is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
