@@ -1,12 +1,4 @@
-Ruben Mercado
-
-https://rubenmarket.com/
-
-https://leetcode.com/RubenMarket/
-
 ![background](https://user-images.githubusercontent.com/27410534/193472048-6be42998-1f96-499c-8ac6-85ce8c286590.png)
-
-
 
 
 <!---
