@@ -1,5 +1,6 @@
-![background](https://user-images.githubusercontent.com/27410534/193472048-6be42998-1f96-499c-8ac6-85ce8c286590.png)
 
+
+![Screenshot 2023-03-21 175500](https://user-images.githubusercontent.com/27410534/226752861-6eb770a8-d834-4c69-aaab-c7fb5e2140e3.png)
 
 <!---
 RubenMarket/RubenMarket is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
